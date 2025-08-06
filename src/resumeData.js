@@ -142,7 +142,12 @@ const resumeData = {
       imgurl: 'https://pngimg.com/uploads/github/github_PNG20.png'
     }
   ],
-  portfolio: [{
+  portfolio: [
+    {
+    name: 'Aircanada',
+    description: 'Air Canada is the flag carrier and largest airline of Canada, providing scheduled and charter air transport for passengers and cargo to over 200 destinations worldwide including Canada, the United States, Europe, Asia, and the Middle East.',
+    imgurl: 'images/aircanada.jpg'
+  },{
     name: 'Prettylittlething.com',
     description: 'Prettylittlething is an e-commerce application for selling clothes and shoes for women’s, it operates in many countries around the globe, some of them are US, UK, Dubai, France, Ireland and others.',
     imgurl: 'images/plt.webp'
